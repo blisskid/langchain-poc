@@ -5,7 +5,7 @@ load_dotenv()
 
 def get_weather(city: str) -> str:
     """Get weather for a given city."""
-    return f"It's always sunny in {city}!"
+    return f"It's always sunny or rainy in {city}!"
 
 agent = create_agent(
     model="google_genai:gemini-3.5-flash-lite",
