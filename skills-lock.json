@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "managed-deep-agents": {
+      "source": "langchain-ai/langchain-skills",
+      "commit": "7a385cd544c7d024f0e410b2281f6d56a621d442",
+      "sourceType": "github",
+      "skillPath": "skills/.legacy/managed-deep-agents/SKILL.md",
+      "computedHash": "0ea619c920e0acbaef5dceaa8d20f950aff2c749a16a5df0d7efcdd94efb4299"
+    }
+  }
+}
